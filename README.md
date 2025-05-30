@@ -1,4 +1,4 @@
-Conversational AI Chatbot with Gradio
+Conversational AI Chatbot with Gradio.
 
 
 A flexible and customizable chatbot built with OpenAI's GPT models and Gradio, designed for business applications with dynamic system prompting capabilities.
